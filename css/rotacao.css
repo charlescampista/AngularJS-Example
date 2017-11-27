@@ -1,0 +1,3 @@
+.rotacionar{
+  -webkit-transform: rotate({{angulo}}deg);transform: rotate({{angulo}}deg);
+}
